@@ -29,10 +29,10 @@ What's new in Django 5.1
 Minor features
 --------------
 
-:mod: ``django.shortcuts``
-~~~~~~~~~~~~~~~~~~~~~~~~
+:mod:`django.shortcuts`
+~~~~~~~~~~~~~~~~~~~~~~~
 
-* The new :func:``django.shortcuts.make_toast` function returns ``"toast"``.
+* The new :func:`django.shortcuts.make_toast` function returns ``'toast'``.
 
 
 Asynchronous views
